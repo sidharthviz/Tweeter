@@ -26,7 +26,7 @@ form {
     color: #28262c;
   }
   
-  /* .actions {
+   .actions {
     display: flex;
     justify-content: flex-end;
     gap: 0.5rem;
@@ -52,4 +52,4 @@ form {
   
   .actions button[type='button']:hover {
     color: #d1bee6;
-  } */
+  } 
