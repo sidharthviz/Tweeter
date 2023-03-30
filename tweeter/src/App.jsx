@@ -19,6 +19,7 @@ function App() {
        <PostList  
        isPosting={modalIsVisible}
        onStopPosting={hideModalHandler} />
+       
    </main>
    </>
   )

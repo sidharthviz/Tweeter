@@ -44,6 +44,7 @@ form {
   
   .actions button:hover {
     background-color: #23014a;
+    
   }
   
   .actions button[type='button'] {

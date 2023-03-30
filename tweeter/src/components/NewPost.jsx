@@ -20,6 +20,7 @@ function NewPost({onCancel, onAddPost}) {
       body: textbody, 
       author: text
     };
+    
     onAddPost(postData);
     onCancel();
   }
